@@ -3,7 +3,9 @@
 ## Introduction
 
 This project is based on [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) with some personal modifications.  
+
 **Added support for MSI B850 EDGE TI WIFI**
+
 **I am not a professional developer. The modifications were made for personal learning and exploration purposes.**
 
 ## Disclaimer
