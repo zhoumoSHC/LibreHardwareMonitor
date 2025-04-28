@@ -4,7 +4,9 @@
 
 This project is based on [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) with some personal modifications.  
 
-**Added support for MSI B850 EDGE TI WIFI**
+Modified LibreHardwareMonitorLib to enable fan control support for the MSI B850 EDGE TI WIFI motherboard.
+
+This allows FanControl to properly read and manage fan speeds on this board.
 
 **I am not a professional developer. The modifications were made for personal learning and exploration purposes.**
 
