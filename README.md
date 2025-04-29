@@ -1,4 +1,4 @@
-# LibreHardwareMonitor - Personal Modified Version
+# fan control plugin for MSI MPG B850 EDGE TI WIFI
 
 ## Introduction
 
