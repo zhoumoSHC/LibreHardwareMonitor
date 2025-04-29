@@ -1,28 +1,3 @@
-# fan control plugin for MSI MPG B850 EDGE TI WIFI
-
-## Introduction
-
-This project is based on [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) with some personal modifications.  
-
-Modified LibreHardwareMonitorLib to enable **fan control** support for the **MSI B850 EDGE TI WIFI** motherboard.
-
-This allows FanControl to properly read and manage fan speeds on this board.
-
-**I am not a professional developer. The modifications were made for personal learning and exploration purposes.**
-
-## Disclaimer
-
-- This version **may contain bugs and incomplete features**.
-- **Use it at your own risk.**
-- **Not recommended for production or mission-critical environments.**
-- This project follows the original [MPL-2.0 License](LICENSE).
-
-## Acknowledgments
-
-Special thanks to the original LibreHardwareMonitor developers and contributors for their great open-source work.
-
-
-
 # LibreHardwareMonitor
 [![GitHub license](https://img.shields.io/github/license/LibreHardwareMonitor/LibreHardwareMonitor)](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/blob/master/LICENSE) [![Nuget](https://img.shields.io/nuget/v/LibreHardwareMonitorLib)](https://www.nuget.org/packages/LibreHardwareMonitorLib/) [![Nuget (with prereleases)](https://img.shields.io/nuget/vpre/LibreHardwareMonitorLib?label=nuget-pre)](https://www.nuget.org/packages/LibreHardwareMonitorLib/) [![Nuget](https://img.shields.io/nuget/dt/LibreHardwareMonitorLib?label=nuget-downloads)](https://www.nuget.org/packages/LibreHardwareMonitorLib/)
 
